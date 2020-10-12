@@ -15,7 +15,7 @@ A few resources to get you started if this is your first Flutter project:
 ![1](https://user-images.githubusercontent.com/60801374/95776342-6c001480-0cc4-11eb-8c9c-680b610bbe37.png)
 ![2](https://user-images.githubusercontent.com/60801374/95776479-bd100880-0cc4-11eb-9db8-d61a7779c1dd.png)
 
-## coonection adminBox
+## connection adminBox
 
 ![3](https://user-images.githubusercontent.com/60801374/95776654-07918500-0cc5-11eb-8a97-de178bf1b22b.png)
 
